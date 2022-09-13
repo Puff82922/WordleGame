@@ -32,6 +32,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+https://github.com/Puff82922/WordleGame/blob/master/WordleGameWalkthrough.gif
+
 https://github.com/Puff82922/WordleGame/blob/master/WordleWalkthrough.gif
 
 ## Notes
